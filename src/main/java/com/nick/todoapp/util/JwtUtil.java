@@ -1,4 +1,4 @@
-package com.nick.todoapp.security;
+package com.nick.todoapp.util;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
